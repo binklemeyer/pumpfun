@@ -39,7 +39,7 @@ spl-token initialize-metadata \
   "$MINT_ADDR" \
   "TeslaAI" \
   "TESLAAI" \
-  "https://shpingus28.github.io/token-data/tesla-metadata.json" \
+  "https://binklemeyer.github.io/token-data/tesla-metadata.json" \
   --fee-payer "$FEE_PAYER"
 
 # Create account for mint
